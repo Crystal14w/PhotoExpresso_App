@@ -1,4 +1,4 @@
-package com.example.photo_expresso_app
+package com.example.PhotoExpressoApp
 
 import io.flutter.embedding.android.FlutterActivity
 
